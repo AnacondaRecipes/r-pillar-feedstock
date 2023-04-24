@@ -60,7 +60,6 @@ about:
 extra:
   recipe-maintainers:
     - conda-forge/r
-    - ocefpaf
 
 # Package: pillar
 # Title: Coloured Formatting for Columns
