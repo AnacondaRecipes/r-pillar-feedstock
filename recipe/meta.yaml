@@ -59,7 +59,7 @@ about:
 
 extra:
   recipe-maintainers:
-    - conda-forge/r
+    - ianaobi
 
 # Package: pillar
 # Title: Coloured Formatting for Columns
