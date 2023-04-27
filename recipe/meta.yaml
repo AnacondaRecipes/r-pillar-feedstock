@@ -60,6 +60,7 @@ about:
 extra:
   recipe-maintainers:
     - ianaobi
+    - bradley
 
 # Package: pillar
 # Title: Coloured Formatting for Columns
